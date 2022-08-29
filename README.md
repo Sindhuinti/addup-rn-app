@@ -10,4 +10,4 @@
 ## App developed by 
 👩🏻‍💻 **Sindhu inti** 
 
-## Give me a ⭐
+## Give me a
