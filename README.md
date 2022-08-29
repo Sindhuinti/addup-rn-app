@@ -10,4 +10,3 @@
 ## App developed by 
 👩🏻‍💻 **Sindhu inti** 
 
-## Give
